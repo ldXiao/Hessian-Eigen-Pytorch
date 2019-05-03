@@ -1,0 +1,4 @@
+# ignore .json .pt files
+*.json
+*.pt
+
